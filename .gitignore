@@ -1,0 +1,10 @@
+*.dict.yaml
+dist
+*.egg-info
+.mypy_cache
+.pytest_cache
+__pycache__
+
+/build/dict_cantonese.txt
+/build/dict.big.txt
+/src/cantoseg/merged_dict.txt
